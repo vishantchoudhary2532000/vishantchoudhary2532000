@@ -43,7 +43,7 @@ I specialize in helping founders and engineering teams with:
 
 ### Contact & Collaboration
 
-*   **Email:** [your.email@example.com](mailto:vishantchoudhary2532000@gmail.com)
+*   **Email:** [vishantchoudhary2532000@gmail.com](mailto:vishantchoudhary2532000@gmail.com)
 *   **GitHub:** [github.com/vishantchoudhary2532000](https://github.com/vishantchoudhary2532000)
 
 ---
