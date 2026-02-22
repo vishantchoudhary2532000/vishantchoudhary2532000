@@ -43,8 +43,7 @@ I specialize in helping founders and engineering teams with:
 
 ### Contact & Collaboration
 
-*   **Work with me:** [Upwork Profile](https://www.upwork.com/freelancers/~PLACEHOLDER)
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **Email:** [your.email@example.com](mailto:vishantchoudhary2532000@gmail.com)
 *   **GitHub:** [github.com/vishantchoudhary2532000](https://github.com/vishantchoudhary2532000)
 
 ---
