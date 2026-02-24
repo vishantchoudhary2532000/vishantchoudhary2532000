@@ -9,6 +9,11 @@ A comprehensive integration of Stripe Checkout and Elements.
 *   **Live Demo:** [stripe-demo-olive.vercel.app](https://stripe-demo-olive.vercel.app/)
 *   **Tech:** Next.js 14, Stripe API, Postman, Tailwind CSS
 
+**[SaaS Subscription Demo](https://github.com/vishantchoudhary2532000/saas-subscription-demo)**
+A full-stack SaaS demo showcasing authentication, Stripe Checkout (test mode), webhook-based access control, and protected routes with persistent user state.
+*   **Live Demo:** [saas-subscription-demo.vercel.app](https://saas-subscription-demo.vercel.app/)
+*   **Tech:** Next.js 14, NestJS, Stripe API (Webhooks), MongoDB, JWT Auth
+
 **[Next.js Admin Dashboard (AstraPanel)](https://github.com/vishantchoudhary2532000/nextjs-dashboard-template)**
 A premium, performance-optimized admin template with complex data visualization.
 *   **Live Demo:** [nextjs-dashboard-template-jet.vercel.app](https://nextjs-dashboard-template-jet.vercel.app/)
