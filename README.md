@@ -1,4 +1,4 @@
-# Full-Stack Developer | Next.js & Node.js Specialist
+# Full-Stack MERN Developer | React, Node.js, Next.js, NestJS | APIs & Integrations
 
 Professional Full-Stack Developer with expertise in building scalable SaaS MVPs, enterprise-grade admin dashboards, and robust backend architectures. Focused on delivering high-performance applications with clean, maintainable code using the modern MERN stack.
 
